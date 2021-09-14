@@ -1,3 +1,4 @@
-Thanks to team Cypress for this real world demo app ❤️
+# React testing with Cypress
+Learning the Cypress
 
-<a href="https://github.com/cypress-io/cypress-realworld-app">Original repo</a>
+<a href="https://github.com/cypress-io/cypress-realworld-app">Original repo by Cypress Team</a>
